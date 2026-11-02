@@ -1,5 +1,9 @@
 # Journey-with-Gemini
 Documents developed in cooperation with Gemini
+# OMAAI patent
+# OJEM defensive interceptor launch system
+# FAST space launch system
+Click on file - click on download icon
 
 ## Documentation
 
